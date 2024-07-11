@@ -1,5 +1,6 @@
 # VerilogAssistant
 基于LLM实现verilog代码的语法错误修正与功能错误修正
+
 配置
 1. 将环境用户变量OPENAI_API_KEY设置为自己的openai api key
 2. 安装ModelSim
