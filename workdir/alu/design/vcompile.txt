@@ -1,0 +1,10 @@
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+Start time: 16:11:45 on Jul 09,2024
+vlog -work work ./design/alu.v ./design/test_bench.v -l ./design/vcompile.txt 
+-- Compiling module alu
+-- Compiling module tb
+
+Top level modules:
+	tb
+End time: 16:11:45 on Jul 09,2024, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
